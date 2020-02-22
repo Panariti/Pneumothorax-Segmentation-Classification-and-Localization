@@ -1,6 +1,6 @@
-# SIIM-ACR Pneumothorax Segmentation
+# Pneumothorax-Segmentation-Classification-and-Localization
 
-Repository for the code of siim-acr-pneumothorax-segmentation challenge.
+A implementation of a weakly supervised model for classification and localization and the encoder part of the Tiramisu[6] segmentation model. This encoder is pretrained on the NIH Dataset[1] and by doing Transfer Learning it will serve as the encoder of the full Tiramisu[6] segmentation model.
 
 -   To train the model just run the start_training.py script. There you provide the path to your dataset and other training parameters. 
 Furthermore you can also specify whether you want to train the full densenet or the tiramisu encoder. It is also possible to specify the type of loss function and the type of weighting in the batches
