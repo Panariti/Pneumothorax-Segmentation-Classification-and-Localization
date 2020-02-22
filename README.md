@@ -23,7 +23,7 @@ Furthermore you can also specify whether you want to train the full densenet or 
 
 
 
-#### The inspiration came from these papers:
+#### The inspiration came from the following papers:
 http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf
 https://arxiv.org/pdf/1711.05225.pdf
 https://arxiv.org/pdf/1905.03767.pdf
