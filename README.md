@@ -16,8 +16,19 @@ Furthermore you can also specify whether you want to train the full densenet or 
     <img src = "https://github.com/Panariti/Pneumothorax-Segmentation-Classification-and-Localization/blob/master/heatmaps/heatmap-00000013_002.jpg" width="250">
 <img src = "https://github.com/Panariti/Pneumothorax-Segmentation-Classification-and-Localization/blob/master/heatmaps/heatmap-00000013_010.jpg" width="250">
     <img src = "https://github.com/Panariti/Pneumothorax-Segmentation-Classification-and-Localization/blob/master/heatmaps/heatmap-00000013_018.jpg" width="250">
-    </div>
+</div>
     
+
+
+
+
+
+#### The inspiration came from these papers:
+http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf
+https://arxiv.org/pdf/1711.05225.pdf
+https://arxiv.org/pdf/1905.03767.pdf
+http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf
+https://arxiv.org/pdf/1610.02391.pdf
 
 
 
