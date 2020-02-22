@@ -9,7 +9,16 @@ Furthermore you can also specify whether you want to train the full densenet or 
 -   In the dataset resizing notebook is the function used for resizing the dataset to (224, 224).
     It heavily reduces the dataset size and is only done once, instead of doing it repetitively in the data loader.
 
-<images src = "https://github.com/Panariti/Pneumothorax-Segmentation-Classification-and-Localization/blob/master/heatmaps/heatmap-00000013_002.jpg" width="20" height="20">
+
+##### Here are some examples generated using Grad-CAM, which tell where the model was focusing when making the decision. The yellower, the higher the concentration
+
+<div>
+    <img src = "https://github.com/Panariti/Pneumothorax-Segmentation-Classification-and-Localization/blob/master/heatmaps/heatmap-00000013_002.jpg" width="250">
+<img src = "https://github.com/Panariti/Pneumothorax-Segmentation-Classification-and-Localization/blob/master/heatmaps/heatmap-00000013_010.jpg" width="250">
+    <img src = "https://github.com/Panariti/Pneumothorax-Segmentation-Classification-and-Localization/blob/master/heatmaps/heatmap-00000013_018.jpg" width="250">
+    </div>
+    
+
 
 
 #
